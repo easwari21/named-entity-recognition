@@ -5,10 +5,8 @@
 To develop an LSTM-based model for recognizing the named entities in the text.
 
 ## Problem Statement and Dataset
-
-## Neural Network Model
-
-Include the neural network model diagram.
+ 
+Named Entity Recognition (NER) involves the identification and classification of named entities such as persons, organizations, locations, dates, and more within unstructured text.In this experiment we will develop a LSTM model for recognizing the named entities in the given text in the dataset.For this a model is created bidirectional layers and compiled with categorical crossentrophy.Thus the model is created and the desiredv output is obtained.
 
 ## DESIGN STEPS
 
